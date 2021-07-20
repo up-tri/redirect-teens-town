@@ -12,4 +12,4 @@ https://t-t.page
 
 **team logo**
 
-&copy; 2019 Teens Town Executive Committee.
+&copy; 2019 Teens Town Musashino Executive Committee.
