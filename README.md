@@ -1,8 +1,8 @@
 # TeensTown-Musashino old page
 
-https://teens-town.me
-https://teens-town.app
-https://t-t.page
+- https://teens-town.me
+- https://teens-town.app
+- https://t-t.page
 
 ## copyright
 
