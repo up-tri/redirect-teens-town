@@ -1,6 +1,24 @@
 <!DOCTYPE html>
 <html lang="ja">
   <head>
+    <!-- Google Tag Manager -->
+    <script>
+      (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          'gtm.start': new Date().getTime(),
+          event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-W4ZNRND');
+    </script>
+    <!-- End Google Tag Manager -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,16 +35,20 @@
     <title>TeensTownむさしの (旧URL)</title>
   </head>
   <body class="font-mono">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W4ZNRND" height="0" width="0"
+        style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <main class="m-auto max-w-full p-4" style="width: 600px;">
       <h1 class="my-10">
-        <a class="block w-2/3 m-auto transition-all duration-75 hover:opacity-70" target="_blank" rel="noopener"
-          href="http://teens-town.main.jp">
+        <a id="redirecttop__topimage_0" class="block w-2/3 m-auto transition-all duration-75 hover:opacity-70"
+          target="_blank" rel="noopener" href="http://teens-town.main.jp">
           <img class="block w-full" src="/assets/img/logo@4x.png" alt="Teens Town むさしの">
         </a>
       </h1>
       <p class="text-center my-5">現在は teens-town.main.jp で活動発信中です。</p>
       <div class="text-center">
-        <a target="_blank" rel="noopener" href="http://teens-town.main.jp"
+        <a id="redirecttop__redirectbutton_0" target="_blank" rel="noopener" href="http://teens-town.main.jp"
           class="inline-block border border-blue-700 w-72 px-8 py-5 bg-white text-blue-700 shadow-md transition-all duration-75 hover:bg-blue-700 hover:text-white">
           ❯ 現在のサイトへ移動する
           <br>
@@ -36,7 +58,8 @@
     </main>
     <footer class="w-2/3 mx-auto mt-5 border-t py-4">
       <p class="text-center text-sm text-gray-400">This domain (<?= $_SERVER['HTTP_HOST']; ?>) and page are
-        owned by <a class="underline" target="_blank" rel="noopener" href="https://up-tri.me">up-tri</a>.</p>
+        owned by <a id="redirecttop__footer_uptri_0" class="underline" target="_blank" rel="noopener"
+          href="https://up-tri.me">up-tri</a>.</p>
     </footer>
   </body>
 </html>
