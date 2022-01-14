@@ -27,7 +27,7 @@
       <p class="text-center my-5">現在は teens-town.main.jp で活動発信中です。</p>
       <div class="text-center">
         <a target="_blank" rel="noopener" href="http://teens-town.main.jp"
-          class="inline-block border border-blue-700 px-8 py-5 bg-white text-blue-700 shadow-md transition-all duration-75 hover:bg-blue-700 hover:text-white">
+          class="inline-block border border-blue-700 w-72 px-8 py-5 bg-white text-blue-700 shadow-md transition-all duration-75 hover:bg-blue-700 hover:text-white">
           ❯ 現在のサイトへ移動する
           <br>
           <span class="text-sm">http://teens-town.main.jp</span>
